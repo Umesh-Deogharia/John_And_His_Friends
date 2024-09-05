@@ -24,7 +24,7 @@ function PrintDeveloperbyMap() {
   });
   
 }
-// PrintDeveloperbyMap(arr);
+
 
 
 function PrintDeveloperbyForEach() {
